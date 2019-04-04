@@ -1,4 +1,4 @@
-package com.quill.effective.chapter02.item01;
+package com.quill.action.effective.chapter02.item01;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

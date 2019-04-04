@@ -1,4 +1,4 @@
-package com.quill.effective.chapter02.item02;
+package com.quill.action.effective.chapter02.item02;
 
 /**
  * Created by chenqg18662 on 2019/4/3.
