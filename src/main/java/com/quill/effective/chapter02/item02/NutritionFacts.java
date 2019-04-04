@@ -65,6 +65,5 @@ public class NutritionFacts {
 
     public static void main(String[] args) {
         NutritionFacts build = new Builder(240, 8).calories(10).build();
-
     }
 }
