@@ -1,1 +1,1 @@
-# effective-demo
+# java-in-action
